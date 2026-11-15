@@ -16,16 +16,26 @@ canvas.home {
   border-radius: 50%;
 }
 
-div.ex-text{
+div.ex-text {
   display: block;
   max-width: 600px;
   margin: auto;
 }
+
 h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
 }
 p {
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+a{
+  font-family: Arial, Helvetica, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  display: block;
   text-align: center;
 }
